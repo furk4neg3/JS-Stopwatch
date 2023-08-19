@@ -1,0 +1,23 @@
+#time{
+    font-size: 75px;
+    color: #a81422;
+}
+
+.buttons{
+    width: 80px;
+    height: 40px;
+    background-color: #1ea814;
+    color: #ebc18a;
+    border: none;
+    border-radius: 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#timerDiv{
+    text-align: center;
+}
+
+*{
+    background-color: #222222;
+}
